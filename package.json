@@ -1,0 +1,8 @@
+{
+  "name": "hello_functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Solenoidal/netlify_function_sample.git",
+  "author": "Solenoid <maruisansmai@gmail.com>",
+  "license": "MIT"
+}
